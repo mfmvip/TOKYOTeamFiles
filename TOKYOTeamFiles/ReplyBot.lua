@@ -31,7 +31,7 @@ end
 Dev_Abs(msg.chat_id_, msg.id_, 1,rd, 1, 'html')
 end
 if text == 'دي' or text == 'ديي' or text == 'دي بابه' then 
-DavidTEAM =  "آخلُِآقٌڪڪ لُِڪڪ 𖠙 😒🔪"
+DavidTEAM =  {"آخلُِآقٌڪڪ لُِڪڪ 𖠙 😒🔪", "امشيك بيها" }
 Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
 return false
 end
@@ -40,6 +40,206 @@ DavidTEAM =  "ياھَہّلْاا ۅﻋ̝̚لْيڪْم الْﺳ̭͠ لْام 
 Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
 return false
 end
+if text == 'زين' or text == 'تمام' then 
+DavidTEAM =  "تدوم ياربي"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end
+if text == 'هههه' or text == 'ههههه' or text == '😹' then 
+DavidTEAM =  "دايمه ان شاء لله"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end
+if text == 'صباحو' or text == 'صباح الخير' or text == 'صباحالخير' or text == 'صبحالخير' then 
+DavidTEAM =  {"صباح عسل وقشطه يكلبي", "احلى صباح احلى كيوت" }
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end
+if text == 'وين' then 
+DavidTEAM =  "باارض الله واسعه"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end
+if text == 'كافي لغوة' then 
+DavidTEAM =  "ولله بكيفي انت شعليك"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end
+if text == 'اكو احد' then 
+DavidTEAM =  "اي كلبي اني موجود"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end
+if text == 'فديت' then 
+DavidTEAM =  "فداك/ج ثولان الكروب"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end
+if text == 'شكو' then 
+DavidTEAM =  "كلشي ماكو رجع نام حبي"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end
+if text == 'اوف' then 
+DavidTEAM =  "اوف يروحي شبيك ضايج"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end
+if text == 'احبج' then 
+DavidTEAM =  "جذاب يضحك عليج"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end
+if text == 'انتة منو' then 
+DavidTEAM =  "اني بوت حبي"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end
+if text == '😌' then 
+DavidTEAM =  "والمطلوب شرايد"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end
+if text == 'اها' then 
+DavidTEAM =  "قابل اغشك حب"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end
+if text == 'شسمج' then 
+DavidTEAM =  "اسمي سعديه ام لبن"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end
+if text == 'شسمك' then 
+DavidTEAM =  "اسمي صكار البنات🤭"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end
+if text == 'شوف' then 
+DavidTEAM =  "ششوف حبي"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end
+if text == 'المدرسه' then 
+DavidTEAM =  "لاجيب اسمها لاسطرك"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end
+if text == 'كفو' then 
+DavidTEAM =  "كفو من اصلك ضلعي"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end
+if text == 'البوت واكف' then 
+DavidTEAM =  "لجذب حبي بعدني باقي واتمدد"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end
+if text == 'حارة' then 
+DavidTEAM =  "اي ولله كلش حاره وفف"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end
+if text == 'غلس' then 
+DavidTEAM =  "ماغلس لو تموت"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end
+if text == '😐' then 
+DavidTEAM =  "شبيك صافن ولك😂"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end
+if text == '🌚' then 
+DavidTEAM =  "كمر اسود"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end
+if text == '🙄' or text == '🙄🙄' or text == '🙄🙄🙄' then 
+DavidTEAM =  "نزل عينك حبي"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end
+if text == '🙂' or text == '🙂🙂' or text == '🙂🙂🙂' then 
+DavidTEAM =  "ثكيل حلوو"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end
+if text == '🌝' or text == '🌝🌝' or text == '🌝🌝🌝' then 
+DavidTEAM =  "منورر يوم حياتي"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end
+if text == '😒' or text == '😒😒' or text == '😒😒😒' then 
+DavidTEAM =  "شبيك كالب خلقتك"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end
+if text == '😳' then 
+DavidTEAM =  "ها بس لا شفت عمتك العوبه"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end
+if text == '🙁' then 
+DavidTEAM =  "تعال شكيلي اهمومك ليش ضايج حياتي"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end
+if text == '🚶💔' then 
+DavidTEAM =  "وين رايح تعال حبي"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end
+if text == 'هاي' then 
+DavidTEAM =  "هايات يبعدحيلي"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end
+if text == 'اريد اكبل' then 
+DavidTEAM =  "اني هم اريد اكبل قابل ربي وحد"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end
+if text == 'لتزحف' then 
+DavidTEAM =  "دعوفه يزحف شعليك بي"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end 
+if text == 'كلخرا' then 
+DavidTEAM =  "مااكلك حبيبي"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end 
+if text == 'زاحف' then 
+DavidTEAM =  "زاحف ع خالتك شكره"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end 
+if text == 'اكرهك' then 
+DavidTEAM =  "عساس اني احبك/ج امشي الك"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end 
+if text == 'احبك' then 
+DavidTEAM =  "يحياتي واني هم احبك/ج"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end 
+if text == 'واكف' then 
+DavidTEAM =  "وين اوكف لك"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end 
+if text == 'تحبني' then 
+DavidTEAM =  "سؤال صعب خليني افكر"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end 
+if text == 'تعالي خاص' or text == 'خاص' or text == 'تعال خاص' then 
+DavidTEAM =  "هاااهاا زاحف زحف بالخاص لحكوو"
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+return false
+end 
 if text == '😭💔' or text == '😭😭' or text == '😭😭😭' or text == '😿💔' or text == '😭😭😭' or text == '😭😭😭😭' then 
 DavidTEAM =  "مآآعٍآشُ آلُِي يزعٍلُِڪڪ 𖠙 😏♥️"
 Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
@@ -56,7 +256,7 @@ Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md')
 return false
 end
 if text == 'هلو' or text == 'هلاو' or text == 'هلا' or text == 'هلاوو' or text == 'هيلاو' or text == 'هيلاوو' or text == 'هلاا' then 
-local DavidTEAM = {"اࠗط็لق֯ق֯ هٞللاࠗ୨و 𖠙 🤤♥️" ,"هۂَلاا نۨہٰورتت يعمۘري 𖠙 🤤♥️" } 
+local DavidTEAM = {"اࠗط็لق֯ق֯ هٞللاࠗ୨و 𖠙 🤤♥️", "هلاوات يكلبي نورت/ي" ,"هۂَلاا نۨہٰورتت يعمۘري 𖠙 🤤♥️" } 
 DevAbs2 = math.random(#DavidTEAM) 
 Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM[DevAbs2] , 1, 'md') 
 return false
@@ -97,7 +297,7 @@ DavidTEAM =  "ٰوينۨہهۂَ خۡل احۡصرهۂَ 𖠙 😹♥️"
 Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
 return false
 end
-if text == 'سورس عبس' or text == 'سورس بروكس' or text == 'سورس ديف بروكس' or text == 'سورس زربه' or text == 'السورس زربه' or text == 'سورس عاوي' or text == 'السورس عاوي' then 
+if text == 'سورس مصطفى' or text == 'سورس طوكيو' or text == 'سورس نفسيه' or text == 'سورس تيم طوكيو' or text == 'سورس زربه' or text == 'السورس زربه' or text == 'سورس عاوي' or text == 'السورس عاوي' then 
 DavidTEAM =  "لُِآ سوورس خآلُِتڪ دِي لُِڪ 𖠙 😒🔪" 
 Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md')
 return false
