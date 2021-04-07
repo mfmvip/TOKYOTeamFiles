@@ -31,7 +31,7 @@ end
 Dev_Abs(msg.chat_id_, msg.id_, 1,rd, 1, 'html')
 end
 if text == 'دي' or text == 'ديي' or text == 'دي بابه' then 
-DavidTEAM =  {"آخلُِآقٌڪڪ لُِڪڪ 𖠙 😒🔪", "امشيك بيها" }
+DavidTEAM =  { "آخلُِآقٌڪڪ لُِڪڪ 𖠙 😒🔪" , "امشيك بيها" }
 Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
 return false
 end
@@ -51,7 +51,7 @@ Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md')
 return false
 end
 if text == 'صباحو' or text == 'صباح الخير' or text == 'صباحالخير' or text == 'صبحالخير' then 
-DavidTEAM =  {"صباح عسل وقشطه يكلبي", "احلى صباح احلى كيوت" }
+DavidTEAM =  { "صباح عسل وقشطه يكلبي" , "احلى صباح احلى كيوت" }
 Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
 return false
 end
