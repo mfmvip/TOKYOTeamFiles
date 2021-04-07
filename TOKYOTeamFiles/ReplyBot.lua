@@ -31,8 +31,9 @@ end
 Dev_Abs(msg.chat_id_, msg.id_, 1,rd, 1, 'html')
 end
 if text == 'دي' or text == 'ديي' or text == 'دي بابه' then 
-DavidTEAM =  { "آخلُِآقٌڪڪ لُِڪڪ 𖠙 😒🔪" , "امشيك بيها" }
-Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+local DavidTEAM = { "آخلُِآقٌڪڪ لُِڪڪ 𖠙 😒🔪" , "امشيك بيها" } 
+DevAbs2 = math.random(#DavidTEAM) 
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM[DevAbs2] , 1, 'md') 
 return false
 end
 if text == 'السلام عليكم' or text == 'سلام عليكم' then 
@@ -45,14 +46,15 @@ DavidTEAM =  "تدوم ياربي"
 Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
 return false
 end
-if text == 'هههه' or text == 'ههههه' or text == '😹' then 
+if text == 'هههه' or text == 'ههههه' or text == '😹' or text == '😹😹😹' or text == '😹😹' or text == '😂' or text == '😂😂' or text == '😂😂😂' then 
 DavidTEAM =  "دايمه ان شاء لله"
 Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
 return false
 end
 if text == 'صباحو' or text == 'صباح الخير' or text == 'صباحالخير' or text == 'صبحالخير' then 
-DavidTEAM =  { "صباح عسل وقشطه يكلبي" , "احلى صباح احلى كيوت" }
-Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM, 1, 'md') 
+local DavidTEAM = { "صباح عسل وقشطه يكلبي" , "احلى صباح احلى كيوت" } 
+DevAbs2 = math.random(#DavidTEAM) 
+Dev_Abs(msg.chat_id_, msg.id_, 1, DavidTEAM[DevAbs2] , 1, 'md') 
 return false
 end
 if text == 'وين' then 
