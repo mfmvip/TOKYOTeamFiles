@@ -18,7 +18,7 @@ channel_get_users(receiver, kick_all,{receiver = receiver, msg = msg})
  end
  return {
        patterns = {
-    "^[/DE](clean members)$"
+    "^[/](clean members)$"
  },
 run = run,
 }
